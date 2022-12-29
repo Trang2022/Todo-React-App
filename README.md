@@ -8,9 +8,9 @@
 You can view demo of the project here: 
 ![image](https://user-images.githubusercontent.com/106313229/209937687-d95db62d-cac7-4c2d-8feb-7b0cba39ae27.png)
 
+![image](https://user-images.githubusercontent.com/106313229/209937907-8f6a5412-3bfc-4d4d-8944-0a4bc27946eb.png)
 
-### **(Most likely outdated, its reccomeneded you check out the live demo!)**
-
+![image](https://user-images.githubusercontent.com/106313229/209937936-aff9be9c-1f39-4d4b-9320-53709912f379.png)
 
 ## 😃 Features:
 
