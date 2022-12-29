@@ -5,8 +5,9 @@
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
-Or, you can watch this video demo
+You can view demo of the project here: 
+![image](https://user-images.githubusercontent.com/106313229/209937687-d95db62d-cac7-4c2d-8feb-7b0cba39ae27.png)
+
 
 ### **(Most likely outdated, its reccomeneded you check out the live demo!)**
 
